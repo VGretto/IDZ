@@ -1,0 +1,14 @@
+high,low,low,middle,no
+low,low,high,low,no
+low,high,low,low,yes
+low,high,high,middle,no
+low,high,high,high,no
+middle,low,high,middle,no
+middle,high,low,low,yes
+middle,high,high,middle,no
+high,low,low,low,yes
+high,low,low,middle,yes
+high,low,low,high,no
+high,low,low,low,no
+high,low,high,high,no
+high,high,low,high,yes
